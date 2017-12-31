@@ -7,7 +7,7 @@ https://github.com/Librar-io/librar.io/screenshots/preview.gif
 # General Description
 This Web App will be characterized mainly by two sections of the application. The user will interact to Librario chatbot(FB messenger), and the server that includes all the required components (API, External API, Database).
 
-https://github.com/Librar-io/librar.io/screenshots/techDiagram.png
+(https://github.com/Librar-io/librar.io/blob/master/screenshots/techDiagram.png)
 
 
 # User Characteristics
