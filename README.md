@@ -3,6 +3,8 @@ It is a chatbot-based system designed to work as a middle service between the us
 
 # Preview
 ![alt text](https://github.com/Librar-io/librar.io/blob/master/screenshots/Chatbot.gif)
+
+# Fun Loop Preview
 ![alt text](https://github.com/Librar-io/librar.io/blob/master/screenshots/loop.gif)
 
 
