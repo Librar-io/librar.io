@@ -3,6 +3,8 @@ It is a chatbot-based system designed to work as a middle service between the us
 
 # Preview
 ![alt text](https://github.com/Librar-io/librar.io/blob/master/screenshots/Chatbot.gif)
+![alt text](https://github.com/Librar-io/librar.io/blob/master/screenshots/Chatbot.gif)
+
 
 # General Description
 This Web App will be characterized mainly by two sections of the application. The user will interact to Librario chatbot(FB messenger), and the server that includes all the required components (API, External API, Database).
